@@ -1,0 +1,261 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.topnav
+{
+    background-color: #000000;
+    color:#fff;
+}
+.topnav a {
+	color:#fff;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 14px 16px;
+	display: block;
+	float: left;
+}
+.topnav a:hover{
+background-color: #adc8ff;
+color: #000;
+}
+.header {
+  background: linear-gradient(rgb(0, 0, 0, 0.8), rgb(255, 255, 255, 0.8)),
+    url("http://4.bp.blogspot.com/-3VARDnS4exs/VYQQsgnC1OI/AAAAAAAAAEg/wKjxEBsbmRc/s1600/south-Indian-food.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  padding: 20px;
+}
+.header h1 {
+  text-transform: uppercase;
+  padding: 20%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+#about {
+  padding: 10%;
+}
+
+#about h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 2px;
+}
+#menu p {
+  font-size: 18px;
+  margin: 10px;
+}
+
+#menu img {
+  width: 90%;
+  height: 500px;
+}
+#menu h5 {
+  margin-top: 5%;
+  font-size: 20px;
+}
+#about img {
+  width: 90%;
+  height: 500px;
+}
+#about h3 {
+  font-size: 30px;
+  margin: 2px;
+}
+#about p {
+  font-size: 25px;
+  margin: 2px;
+}
+#menu {
+  padding: 10%;
+}
+#menu h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 10px;
+}
+#contact {
+  padding: 10%;
+}
+
+#contact h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 2px;
+}
+#contact h3 {
+  font-size: 30px;
+  margin: 2px;
+}
+#contact p {
+  font-size: 25px;
+  margin: 2px;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"] {
+  width: 100%;
+  height: 20px;
+  font-size: 20px;
+  margin: 1%;
+}
+
+.indicator {
+  background-color: green;
+  color: #fff;
+  padding: 2%;
+  border-radius: 20px;
+}
+.indicator1 {
+  background-color: blue;
+  color: #fff;
+  padding: 2%;
+  border-radius: 20px;
+}
+
+
+
+/** {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.topnav {
+  background-color: #000000;
+  color: #fff;
+}
+.topnav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+  
+  display: block;
+  float: left;
+}
+.topnav a:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.header {
+  background: linear-gradient(rgb(0, 0, 0, 0.8), rgb(255, 255, 255, 0.8)),
+    url("https://images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  padding: 20px;
+}
+.header h1 {
+  text-transform: uppercase;
+  padding: 20%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+#about {
+  padding: 10%;
+}
+
+#about h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 2px;
+}
+#about h3 {
+  font-size: 30px;
+  margin: 2px;
+}
+#about p {
+  font-size: 25px;
+  margin: 2px;
+}
+
+#about img {
+  width: 90%;
+  height: 500px;
+}
+
+#menu {
+  padding: 10%;
+}
+
+#menu h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 10px;
+}
+#menu h5 {
+  margin-top: 5%;
+  font-size: 20px;
+}
+#menu p {
+  font-size: 18px;
+  margin: 10px;
+}
+
+#menu img {
+  width: 90%;
+  height: 500px;
+}
+
+#contact {
+  padding: 10%;
+}
+
+#contact h1 {
+  font-family: Arial;
+  font-size: 45px;
+  margin: 2px;
+}
+#contact h3 {
+  font-size: 30px;
+  margin: 2px;
+}
+#contact p {
+  font-size: 25px;
+  margin: 2px;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"] {
+  width: 100%;
+  height: 20px;
+  font-size: 20px;
+  margin: 1%;
+}
+
+.indicator {
+  background-color: #dc143c;
+  color: #fff;
+  padding: 2%;
+  border-radius: 20px;
+}
+*/
